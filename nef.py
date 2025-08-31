@@ -1,3 +1,9 @@
+# Dependencies
+#
+# pip3 install exifread --break-system-packages
+# pip3 install PyExifTool --break-system-packages
+# sudo apt install libimage-exiftool-perl
+
 import exifread
 import os
 import sys
